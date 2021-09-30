@@ -1,0 +1,46 @@
+1
+-----------
+<!-- <html lang="en">
+    <head>
+        <title>Document guvi</title>
+    </head>
+
+    <body>
+     <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+     </div>
+     <div>
+        Guvi Geek Network
+     </div>
+    </body>
+    </html> -->
+
+
+    <!-- bugs 
+    a)Body tag opened inside head tags
+    b)first div was not closed
+
+==================================================
+
+2
+----------
+
+
+
+<html lang="en">
+    <head>
+        <title>Document guvi </title>
+    </head>
+    <body>
+     <div>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+     </div>
+     <div>
+         Guvi Geek Network
+     </div>
+    </body>
+</html>
+
+<!-- a).body started inside head tags
+b).1st div not closed
+c)title not closed -->
